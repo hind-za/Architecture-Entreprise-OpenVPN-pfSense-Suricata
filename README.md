@@ -37,7 +37,7 @@ d'intrusion pour valider chaque couche de défense.
 ---
 
 
-## 🔧 Détail des parties
+## 🔧 Détails des parties
 
 ### 1. Mise en place de l'architecture
 Configuration des interfaces VirtualBox (Bridged/Host-Only), plan d'adressage IP,
